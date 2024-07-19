@@ -1,5 +1,7 @@
-# Culture-leisure-Analytics
-## 서울시 및 6대 광역시 문화/여가생활 분석 | 제 10회 문화데이터 활용 경진대회 대상 
+
+<h1 align="center">  서울시 및 6대 광역시 문화/여가생활 분석  </h1>
+<h4 align="center"> 제 10회 문화데이터 활용 경진대회 대상  </h4>
+
 
 ## 분석 개요
 ![스크린샷_19-7-2024_221116_](https://github.com/user-attachments/assets/b22f994d-f34d-4b7d-a549-328216ac1d10)
