@@ -1,12 +1,12 @@
 
 <h1 align="center">  🧳서울시 및 6대 광역시 문화/여가생활 분석🧳  </h1>
 <h4 align="center"> 제 10회 문화데이터 활용 경진대회 대상  </h4>
-
+<br/>
 
 ## 분석 개요
 ![스크린샷_19-7-2024_221116_](https://github.com/user-attachments/assets/b22f994d-f34d-4b7d-a549-328216ac1d10)
 
-
+<br/>
 ## T-test
 ![image](https://github.com/user-attachments/assets/9222076a-ea91-41d7-adb5-c51e4f8a47e5)
 
